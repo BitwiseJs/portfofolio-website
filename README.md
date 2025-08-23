@@ -2,10 +2,9 @@
 
 ![Portfolio Preview](https://img.shields.io/badge/Portfolio-Laravel_Developer-blueviolet)
 ![Status](https://img.shields.io/badge/Status-Live-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-blue)
 
-Portfolio website profesional untuk **Muhammad Aji Sukma**, seorang **Laravel & Backend Developer**, dengan desain dark theme yang elegan dan modern.
+Portfolio website profesional untuk **Moh Fauzan Asrori**, seorang **React & Frontend Developer**, dengan desain dark theme yang elegan dan modern.
 
 ## 📷 Screenshot
 
@@ -34,7 +33,7 @@ Portfolio website profesional untuk **Muhammad Aji Sukma**, seorang **Laravel & 
 1. **Clone repository**:
 
    ```bash
-   git clone https://github.com/BitwiseJs/aji-portfolio.git
+   git clone https://github.com/BitwiseJs/portfolio-website.git
    ```
 
 2. **Masuk ke direktori project**:
@@ -93,10 +92,10 @@ Untuk mengkustomisasi website:
 
 ## 📞 Kontak
 
-- **Email**: sukmaajidigital@gmail.com
-- **LinkedIn**: [Muhammad Aji Sukma](https://www.linkedin.com/in/sukma-aji-08b470286/)
-- **GitHub**: [sukmaajidigital](https://github.com/sukmaajidigital)
-- **Instagram**: [@sukmaaji.digital](https://instagram.com/sukmaaji.digital)
+- **Email**: mohfauzanasrori@gmail.com
+- **LinkedIn**: [Moh Fauzan Asrori](https://www.linkedin.com/in/moh-fauzan-asrori/)
+- **GitHub**: [BitwiseJs](https://github.com/BitwiseJs)
+- **Instagram**: [@mohfauzanasrori](https://instagram.com/mohfauzanasrori)
 
 ## 🤝 Berkontribusi
 
