@@ -58,4 +58,12 @@ document.addEventListener("DOMContentLoaded", function () {
   if (skillsSection) {
     observer.observe(skillsSection);
   }
+
+  document.getElementById("year").textContent = new Date().getFullYear();
+
+  // ambil semua link
+  document.querySelectorAll('a[href]:not([href^="#"])').forEach((link) => {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener noreferrer"); // best practice
+  });
 });

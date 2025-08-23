@@ -1,6 +1,6 @@
-# Portfolio Website - Muhammad Aji Sukma
+# Portfolio Website - Moh Fauzan Asrori
 
-![Portfolio Preview](https://img.shields.io/badge/Portfolio-Laravel_Developer-blueviolet)
+![Portfolio Preview](https://img.shields.io/badge/Portfolio-Website-blueviolet)
 ![Status](https://img.shields.io/badge/Status-Live-success)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-blue)
 
