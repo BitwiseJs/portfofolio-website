@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Live-success)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-blue)
 
-Portfolio website profesional untuk **Moh Fauzan Asrori**, seorang **React & Frontend Developer**, dengan desain dark theme yang elegan dan modern.
+Portfolio website profesional untuk **Moh Fauzan Asrori**, seorang **Laravel & Backend Developer**, dengan desain dark theme yang elegan dan modern.
 
 ## 📷 Screenshot
 
@@ -64,22 +64,6 @@ Portfolio website profesional untuk **Moh Fauzan Asrori**, seorang **React & Fro
 3. **🛠️ Keahlian** - Teknologi dan tools yang dikuasai
 4. **📂 Portfolio** - Project-project terpilih
 5. **📞 Kontak** - Form dan informasi kontak
-
-## 🌟 Highlight Teknis
-
-- **Mobile-First Design** - Pendekatan mobile-first dalam desain
-- **Smooth Animations** - Animasi CSS dan JavaScript yang halus
-- **Performance Optimized** - Optimasi untuk loading cepat
-- **Cross-Browser Compatible** - Support untuk browser modern
-- **Accessibility** - Perhatian terhadap aksesibilitas web
-
-## 📈 SEO Features
-
-- Meta tags yang optimal
-- Structured data implementation
-- Semantic HTML markup
-- Alt tags untuk images
-- Sitemap ready
 
 ## 🔧 Customization
 
