@@ -60,11 +60,10 @@ Portfolio website profesional untuk **Moh Fauzan Asrori**, seorang **Laravel & B
 ## 📱 Sections
 
 1. **Home** - Introduksi dan hero section
-2. **Stats** - Statistik utama
-3. **Tentang** - Latar belakang dan nilai inti
-4. **Keahlian** - Teknologi dan tools yang dikuasai
-5. **Portfolio** - Project-project terpilih
-6. **Kontak** - Form dan informasi kontak
+2. **Tentang** - Latar belakang dan nilai inti
+3. **Keahlian** - Teknologi dan tools yang dikuasai
+4. **Portfolio** - Project-project terpilih
+5. **Kontak** - Form dan informasi kontak
 
 ## 🔧 Customization
 
