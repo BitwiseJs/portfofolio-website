@@ -80,15 +80,3 @@ body {
 .delay-500 {
   animation-delay: 0.5s;
 }
-
-.count-up {
-  display: inline-block;
-}
-
-.stats-card {
-  transition: all 0.3s ease;
-}
-
-.stats-card:hover {
-  transform: translateY(-5px);
-}
