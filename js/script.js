@@ -67,3 +67,38 @@ document.addEventListener("DOMContentLoaded", function () {
     link.setAttribute("rel", "noopener noreferrer"); // best practice
   });
 });
+
+// Animated counter
+function animateCounters() {
+  const counters = document.querySelectorAll(".count-up");
+  const speed = 200; // The lower the slower
+
+  counters.forEach((counter) => {
+    const target = +counter.getAttribute("data-target");
+    const count = +counter.innerText;
+    const increment = Math.ceil(target / speed);
+
+    if (count < target) {
+      counter.innerText = Math.min(count + increment, target);
+      setTimeout(() => animateCounters(), 1);
+    }
+  });
+}
+
+// Intersection Observer untuk trigger animasi saat section terlihat
+const statsSection = document.querySelector(".bg-dark-300");
+const observer = new IntersectionObserver(
+  (entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        animateCounters();
+        observer.unobserve(entry.target);
+      }
+    });
+  },
+  { threshold: 0.9 }
+);
+
+if (statsSection) {
+  observer.observe(statsSection);
+}
